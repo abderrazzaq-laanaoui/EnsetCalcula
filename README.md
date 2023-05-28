@@ -15,7 +15,7 @@ This Android application is a scientific calculator that utilizes the Xparser li
 - Internet connection for downloading the Xparser library.
 - Android Studio with SDK tools.
 ## Installation
-- Clone or download the repository: git clone [https://github.com/your-username/your-repo.git](https://github.com/abderrazzaq-laanaoui/EnsetCalcula)
+- Clone or download the repository: git clone [https://github.com/abderrazzaq-laanaoui/EnsetCalcula](https://github.com/abderrazzaq-laanaoui/EnsetCalcula)
 - Open the project in Android Studio.
 - Download the latest version of the Xparser library from the official website (https://www.mathparser.org/) or any other trusted source.
 - Copy the Xparser library files into the project's libs directory.
