@@ -4,7 +4,7 @@ Android Scientific App
 This Android application is a scientific calculator that utilizes the Xparser library for advanced mathematical parsing and evaluation. Users can perform complex mathematical calculations, including algebraic expressions, trigonometric functions, logarithms, and more.
 
 ## Demonstration 
-<img height="800" src"./enset-calcula-screen.gif" alt="screenshoot" />
+<img height="800" src="./ensetcalcula-screen.gif" alt="App Demo">
 
 ## Features
 - Evaluate mathematical expressions with variables, constants, and functions.
