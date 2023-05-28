@@ -35,5 +35,5 @@ This Android application is a scientific calculator that utilizes the Xparser li
 - Contributions to this project are welcome! If you encounter any bugs or have ideas for new features, please submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
 ---
